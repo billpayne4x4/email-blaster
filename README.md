@@ -1,4 +1,4 @@
-# Rust Email Sender
+# Rust Email Blaster
 
 A console-based email sender written in Rust, which reads contacts from a `CSV` file, uses a `HTML` template for the email body, and utilizes `SMTP` for sending emails. It logs the status of each sent email to another `CSV` file.
 
